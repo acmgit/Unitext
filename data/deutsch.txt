@@ -1,0 +1,21 @@
+# Transfile.
+# Ein Schlüssel muß mit einem [ beginnen
+# und in der gleichen Zeile mit ] enden.
+# In der einzelnen Zeile unter dem Schlüssel ist dann der Text, welcher ausgegeben werden soll.
+# %. ist ein Platzhalter für einen beliebigen Text oder Wert.
+# 
+
+[Test]
+Bitte deinen Namen eingeben:
+
+[Test2]
+Hallo %S! %S, bist du männlich oder weiblich?
+
+[Thx]
+Danke für %F.
+
+[Gold]
+Du erhältst %N Gold.
+
+[Live]
+Du hast noch %N Lebenspunkte und %G Gold.

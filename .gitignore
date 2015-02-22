@@ -1,0 +1,5 @@
+bin/*
+obj/*
+CppCheckResults.xml
+ValgrindOut.xml
+changes.tmp

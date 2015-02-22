@@ -1,0 +1,21 @@
+# Transfile.
+# A Key must begin with [
+# and end with a ] and must be in a single line.
+# In the single Line below the Key is the Text, which will be printed.
+# %x is a Dummy for a variable Text or Value.
+#
+
+[Test]
+Please enter your Name:
+
+[Test2]
+Hello %S! %S, are you male or female?
+
+[Thx]
+Thank you for %F.
+
+[Gold]
+You're getting %N Gold.
+
+[Live]
+You have %N Lifepoints and %G Gold.
